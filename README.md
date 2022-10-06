@@ -75,6 +75,4 @@ I have decided to train weights using [yolov3-tiny](https://github.com/pjreddie/
 1. [GitHub(pjreddie) of Darknet framework](https://github.com/pjreddie/darknet)
 2. [Website of the Darknet framework and YOLOv3](https://pjreddie.com/darknet/)
 3. [GitHub(AlexeyAB) with a lot of information about Darknet framework](https://github.com/AlexeyAB/darknet)
-4. [Adrian Rosebrock, Yolo Object Detection With Opencv, PyImageSearch](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
-5. [Adrian Rosebrock, Intersection over Union (IoU) for object detection, PyImageSearch](https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/)
-6. [The Ancient Secrets of Computer Vision](https://www.youtube.com/playlist?list=PLjMXczUzEYcHvw5YYSU92WrY8IwhTuq7p)
+4. [youtube](https://www.youtube.com/c/pyresearch)
