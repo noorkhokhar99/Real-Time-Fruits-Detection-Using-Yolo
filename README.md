@@ -68,7 +68,7 @@ I have decided to train weights using [yolov3-tiny](https://github.com/pjreddie/
 
 ## Results
 # Working:
-[![Watch the video](https://github.com/noorkhokhar99/Gender-age-detection/blob/main/Screen%20Shot%201444-03-09%20at%2010.19.31%20PM.png)](https://www.youtube.com/c/pyresearch)
+[![Watch the video](https://github.com/noorkhokhar99/Real-Time-Fruits-Detection-Using-Yolo/blob/main/output/result.jpg)](https://www.youtube.com/c/pyresearch)
 
 
 ## References
